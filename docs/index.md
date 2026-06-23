@@ -7,5 +7,5 @@ hero:
   actions:
     - theme: brand
       text: 进入思维实验场
-      link: /thoughts/test-post
+      link: /thoughts/test-post.html
 ---

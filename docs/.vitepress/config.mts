@@ -12,7 +12,7 @@ export default defineConfig({
       {
         text: '知识原子',
         items: [
-          { text: '收玩具的迭代法', link: '/thoughts/test-post' }
+          { text: '收玩具的迭代法', link: '/thoughts/test-post.html' }
         ]
       }
     ],
