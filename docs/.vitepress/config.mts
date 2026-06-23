@@ -8,6 +8,14 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'AI 研报', link: '/thoughts/' }
     ],
+    sidebar: [
+      {
+        text: '知识原子',
+        items: [
+          { text: '收玩具的迭代法', link: '/thoughts/test-post' }
+        ]
+      }
+    ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/peipei-lab' }
     ]
