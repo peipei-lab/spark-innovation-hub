@@ -1,0 +1,13 @@
+{
+  "name": "peipei-lab",
+  "version": "1.0.0",
+  "description": "Peipei 的思维实验室",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
