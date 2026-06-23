@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/spark-innovation-hub/',
   title: "Peipei 的思维实验室",
   description: "用 AI 系统思维，重构生活与育儿",
   head: [
